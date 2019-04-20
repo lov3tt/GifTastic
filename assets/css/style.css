@@ -1,0 +1,15 @@
+#header {
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#first {
+    text-align: center;
+}
+#head {
+    background-image:url("../images/interlaced.png");
+}
+
+#wrapper {
+    background-image:url("../images/beige-tiles.png");
+}
